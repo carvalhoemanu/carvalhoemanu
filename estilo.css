@@ -1,7 +1,5 @@
 body{
-  background: cyan
-  margin: 0;
-  padding: 0;
+  background: purple;
 }
 h1 {
   text-align: center;
@@ -76,19 +74,19 @@ width: 15%;
   border-style: solid;
   padding: 20px;
 }
-
 .conteudo {
   position: absolute;
   top: 45px;
 }
+
 #rodape {
   width: 100%;
-  height: 35px;
-  background: #000000;
-  color: #FFFFFF;
-  
+  height: 35%;
+  background: purple;
 }
-.animal {
-  position: absolute;
-  top: ;
+h1 {
+  text-align: center;
+  font-style: italic;
+  width: 0px;
+  
 }
